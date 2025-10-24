@@ -1,5 +1,5 @@
 package com.juanboterojuangaleano.daos;
 
-public class ofbsd {
-    
+public interface GenericDAO {
+
 }
